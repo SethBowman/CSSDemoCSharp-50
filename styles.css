@@ -1,0 +1,64 @@
+h1 {
+    color: white;
+    font-size: 50px;;
+}
+
+h2 {
+    color:  rgba(70,129,252,1);
+    font-size: 35px;
+}
+
+body {
+    background: rgb(0,211,255);
+    background: radial-gradient(circle, rgba(0,211,255,1) 0%, rgba(70,129,252,1) 98%);   
+}
+
+.skills {
+    background-color: aliceblue;
+    height: 200px;
+    width: 400px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 5px 5px rgb(93, 92, 92);
+}
+
+#main-photo {
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(93, 92, 92);
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    font-weight: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-right: 15px;
+    margin-top: 50px;
+}
+
+#skill-title {
+    margin-top: 50px;
+}
+
+h3 {
+    color:  white
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color:rgb(144, 175, 235)
+}
